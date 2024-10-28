@@ -7,6 +7,6 @@ This project involves building and training a machine learning model that can de
 
 Key Features
 Text Preprocessing: Removes noise and tokenizes text data.
-Feature Extraction: Uses techniques like TF-IDF and word embeddings.
-Model Training: Tests multiple models (e.g., SVM, logistic regression, and deep learning models) for optimal performance.
-Evaluation Metrics: Precision, recall, F1-score, and accuracy.
+Feature Extraction: Used  TF-IDF 
+Model Training: Model was trained using Decision Tree 
+Evaluation Metrics: F1-score,accuracy and confusion matrix.
